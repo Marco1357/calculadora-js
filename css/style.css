@@ -32,14 +32,14 @@ body {
     text-align: right;
 }
 
-#previous-operations,
-#current-operations {
+#previous-operation,
+#current-operation {
     min-height: 1.6em;
     padding: 0.2em;
     overflow-wrap: break-word;
 }
 
-#previous-operations {
+#previous-operation {
     color: #777;    
 }
 
